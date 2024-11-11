@@ -14,3 +14,6 @@ elif(month == "01" and date == "01"):
     print("выходной")
 elif(month == "09" and date == "02"):
     print("выходной")
+
+
+
