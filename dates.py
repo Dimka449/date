@@ -14,4 +14,4 @@ elif month == "01" and date == "01":
 elif month == "09" and date == "21":
     print("выходной")
 else:
-    print("рабочий")
+    print("всё ещё рабочий")
